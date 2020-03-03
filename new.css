@@ -1,0 +1,28 @@
+body{
+	background-image: linear-gradient(to right,#ff5722,#ff9800);
+	
+	background-image: url("banner-bg.jpg");
+	  
+}
+
+h2 {
+	text-align: center;
+	color: white;
+}
+#alt{
+		width: 100%;
+		color: white;
+		text-align: left;
+	
+
+	
+}
+.one{
+	text-align: left;
+}
+#next{
+	text-align: center;
+	margin-left: 90%;
+}
+
+	
